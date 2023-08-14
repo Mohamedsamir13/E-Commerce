@@ -367,7 +367,7 @@ class CheckOut extends StatelessWidget {
                                 color: Colors.blue,
                               )),
                           const SizedBox(
-                            width: 5,git add .
+                            width: 5,
                           ),
                           Image.asset('assets/visa.png'),
                           const SizedBox(
